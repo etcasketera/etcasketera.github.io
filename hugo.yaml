@@ -29,10 +29,10 @@ menu:
   main:
     - indentifier: archive
       name: "Archive"
-      url: /archive/
+      url: '/archive/'
       weight: 10
     - indentifier: articles
       name: "Articles"
-      url: /dailytexan/
+      url: '/dailytexan/'
       weight: 9
 
