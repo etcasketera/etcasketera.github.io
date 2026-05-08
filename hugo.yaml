@@ -19,12 +19,6 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
 
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # necessary for search
-
 menu:
   main:
     - indentifier: archive
