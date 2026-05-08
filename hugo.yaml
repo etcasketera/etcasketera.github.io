@@ -4,6 +4,8 @@ theme: ["PaperMod"]
 title: Etash Chandran
 
 params:
+  paginate: 2
+  
   homeInfoParams:
     Title: "Hello"
     Content: "I hope you learn something new"
@@ -29,4 +31,8 @@ menu:
       name: "Posts"
       url: '/posts/'
       weight: 9
+    # - indentifier: researchwiki
+    #   name: "Wiki"
+    #   url: '/researchwiki'
+    #   weight: 11
 
