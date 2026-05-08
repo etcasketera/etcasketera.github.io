@@ -1,10 +1,8 @@
 ---
-date: '2026-05-08T13:59:50-05:00'
-draft: true
-title: 'Whatiscollege'
+date: '2024-04-24T13:59:50-05:00'
+draft: false
+title: 'What is college for?'
 ---
-# What is college for?
-
 Most students I’ve met at UT see their time here as a step on the path toward their future career. I see this development as part of the trend of schools becoming places where you learn how to work rather than how to live. Students should take advantage of the freedom of college to explore themselves and the world, instead of going to classes for the sake of an overpriced credential. 
 
 “I chose to come to college because my parents would always tell me that you needed that higher education, help you in life, get better jobs, get better experience. So it was more about a practical mindset,” said Ananth Rangan, an electrical and computer engineering senior.
