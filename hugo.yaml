@@ -19,11 +19,16 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 
-# menu:
-#   main:
-#     - indentifier: sources
-#       name: "Sources"
-#       url: 
-#       weight: 10
+menu:
+  main:
+    - indentifier: archive
+      name: "Archive"
+      url: /archive/
+      weight: 10
 
