@@ -1,6 +1,6 @@
 ---
 date: '2026-05-08T14:56:28-05:00'
-draft: false
+draft: true
 title: 'Why ENGIE'
 ---
 It is amazing how quickly someone can go from thirsty to drowning. On April 30, I was interning at FFF Enterprises with an essentially gauranteed return offer. I was content that I would work my way up in the company by dint of competence, gaining exceptional transferable skills and experiences.
@@ -16,7 +16,30 @@ Prior to recieving those calls, I had essentially given up on the idea that I wo
 
 Making the choice between FFF and ENGIE was not easy.
 
-At FFF, I had a connection to leadership, a clear growth trajectory, and the ability to learn transferrable skills. As someone focused on health and wellness, working in the medical space was interesting to me, and I could see that FFF was working to make the world a better place. Moreover, FFF has a generous hybrid/remote policy, decent benefits, and a strong culture of support. As a company in the medical industry, FFF might've be a stable and growing company from which to grow my career, since "people will always be sick." 
+### Offer Evaluation Matrix
 
-At ENGIE, I would be on my own in a massive multinational company. However, the rotational program would expose me all sorts of different people, ideas, and types of work.
+Importance: 
+1 - High, 10 - Low
+
+| Criteria | My Goals | ENGIE | FFF |
+| ---- | ----- | --- | --- |
+| Firm Size | N/A | Large | Small |
+| Growth Potential | 1 | 2 | 4 |
+| Compensation | 5 | 3 | 3 |
+| Location | 7 | 5 | 7 |
+| Travel Requirements | 9 | 3 | 7 |
+| Personal Interest | 3 | 2 | 8 |
+| Benefits | 6 | 5 | 5 |
+| Type of Work | 2 | 4 | 4 |
+| Exit Potential | 8 | 4 | 8 |
+| Company Culture | 10 | 5 | 3 |
+| Industry Stability | 4 | 4 | 1 |
+| Total | N/A | **37** | 50 |
+
+The areas where FFF beats ENGIE are company culture, industry stability, and firm size, although at this point I do not know what compensation or benefits look like for FFF. However, even with 1/10 compensation and benefits, I would still pick ENGIE, because of my personal interest in the energy field, the growth potential of the rotational progarm, and being in Houston, the heart of the energy industry in North America.
+
+This choice was agonizing because of my connection with Alex, VP of Data Intelligence at FFF and a family friend. He generously made the Data Intelligence Intern for me, with the intention of it becoming a full-time role. However, the opportunity to work at ENGIE is just too important and aligned with my long-term goals. Moreover, I have met great people at FFF that have helped me learn about deploying software and working in an AGILE environment. 
+
+This choice was also motivated by the precieved impact of AI. I believe that the role I would play at FFF is more impacted by AI than the role I would play at ENGIE, and working at ENGIE is a way to future proof my career. 
+
 

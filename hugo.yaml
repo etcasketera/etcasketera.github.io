@@ -4,8 +4,11 @@ theme: ["PaperMod"]
 title: Etash Chandran
 
 params:
-  paginate: 2
+  paginate: 0
   
+  # mainSections:
+  #   ["posts"]
+
   homeInfoParams:
     Title: "Hello"
     Content: "I hope you learn something new"
