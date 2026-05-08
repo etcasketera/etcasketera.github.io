@@ -1,0 +1,71 @@
+baseURL: "https://etcasketera.github.io"
+locale: en-us
+theme: ["PaperMod"]
+title: Etash Chandran
+
+params:
+  homeInfoParams:
+    Title: "Hello"
+    Content: "I hope you learn something new"
+  
+  socialIcons:
+    - name: github
+      url: 'https://github.com/etcasketera'
+    - name: linkedin
+      url: 'https://linkedin.com/in/etashc'
+  
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
+
+# menu:
+#   main:
+#     - indentifier: sources
+#       name: "Sources"
+#       url: 
+#       weight: 10
+
+name: Deploy Hugo site to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+      - name: Build
+        run: hugo --minify
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
