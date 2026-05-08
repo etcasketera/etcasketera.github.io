@@ -1,7 +1,9 @@
 ---
 date: '2026-05-08T14:56:28-05:00'
-draft: true
+draft: false
 title: 'Why ENGIE'
+categories: ["Decisions"]
+tags: ["Job", "Energy"]
 ---
 It is amazing how quickly someone can go from thirsty to drowning. On April 30, I was interning at FFF Enterprises with an essentially gauranteed return offer. I was content that I would work my way up in the company by dint of competence, gaining exceptional transferable skills and experiences.
 
@@ -16,8 +18,7 @@ Prior to recieving those calls, I had essentially given up on the idea that I wo
 
 Making the choice between FFF and ENGIE was not easy.
 
-### Offer Evaluation Matrix
-
+{{<collapse summary="Offer Evaluation Matrix">}}
 Importance: 
 1 - High, 10 - Low
 
@@ -35,8 +36,11 @@ Importance:
 | Company Culture | 10 | 5 | 3 |
 | Industry Stability | 4 | 4 | 1 |
 | Total | N/A | **37** | 50 |
+{{</collapse>}}
 
 The areas where FFF beats ENGIE are company culture, industry stability, and firm size, although at this point I do not know what compensation or benefits look like for FFF. However, even with 1/10 compensation and benefits, I would still pick ENGIE, because of my personal interest in the energy field, the growth potential of the rotational progarm, and being in Houston, the heart of the energy industry in North America.
+
+I also do not intend to work at the same company my entire life, and working at ENGIE gives me the best mobility in terms of location, work experience, and industry crediblity. At FFF, my skills might be transferrable to a wide range of companies, but my opportunity to network would be severely limited.
 
 This choice was agonizing because of my connection with Alex, VP of Data Intelligence at FFF and a family friend. He generously made the Data Intelligence Intern for me, with the intention of it becoming a full-time role. However, the opportunity to work at ENGIE is just too important and aligned with my long-term goals. Moreover, I have met great people at FFF that have helped me learn about deploying software and working in an AGILE environment. 
 

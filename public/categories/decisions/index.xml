@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Etash Chandran</title>
-    <link>http://localhost:1313/EtashSite/posts/</link>
-    <description>Recent content in Posts on Etash Chandran</description>
+    <title>Decisions on Etash Chandran</title>
+    <link>http://localhost:1313/EtashSite/categories/decisions/</link>
+    <description>Recent content in Decisions on Etash Chandran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2026 14:56:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/EtashSite/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/EtashSite/categories/decisions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why ENGIE</title>
       <link>http://localhost:1313/EtashSite/posts/reflections/whyengie/</link>
@@ -15,13 +15,6 @@
       <guid>http://localhost:1313/EtashSite/posts/reflections/whyengie/</guid>
       <description>&lt;p&gt;It is amazing how quickly someone can go from thirsty to drowning. On April 30, I was interning at FFF Enterprises with an essentially gauranteed return offer. I was content that I would work my way up in the company by dint of competence, gaining exceptional transferable skills and experiences.&lt;/p&gt;
 &lt;p&gt;Then, I recieved two phone calls within an hour of one another. The first was from ENGIE, a natural gas &amp;amp; renewables utilities company. The next was from Argus Media, a commodities price reporting agency. The offers were strikly similar (except for compensation)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What is college for?</title>
-      <link>http://localhost:1313/EtashSite/posts/whatiscollege/</link>
-      <pubDate>Wed, 24 Apr 2024 13:59:50 -0500</pubDate>
-      <guid>http://localhost:1313/EtashSite/posts/whatiscollege/</guid>
-      <description>&lt;p&gt;Most students I’ve met at UT see their time here as a step on the path toward their future career. I see this development as part of the trend of schools becoming places where you learn how to work rather than how to live. Students should take advantage of the freedom of college to explore themselves and the world, instead of going to classes for the sake of an overpriced credential.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

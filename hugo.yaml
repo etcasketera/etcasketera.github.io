@@ -4,8 +4,14 @@ theme: ["PaperMod"]
 title: Etash Chandran
 
 params:
-  paginate: 0
-  
+  searchConfig:
+    limit: 20
+    threshold: 0.4
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
   # mainSections:
   #   ["posts"]
 
@@ -24,7 +30,7 @@ params:
   ShowBreadCrumbs: false
   ShowReadingTime: true
   ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
 
 menu:
   main:
@@ -36,8 +42,23 @@ menu:
       name: "Posts"
       url: '/posts/'
       weight: 9
+    - identifier: search
+      name: "Search"
+      url: 'search'
+      weight: 1
+    - name: "Categories"
+      url: "/categories/"
+      weight: 30
+    - name: "Tags"
+      url: "/tags/"
+      weight: 40
     # - indentifier: researchwiki
     #   name: "Wiki"
     #   url: '/researchwiki'
     #   weight: 11
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

@@ -6,6 +6,8 @@ title: 'Texas Ad Pitch Blueprint'
 
 ## A Texas Student Advertising Competition
 
+{{<collapse summary="Table of Contents">}}
+
 [Competition Overview:](#competition-overview:)
 
 [Timelines:](#timelines:)
@@ -45,6 +47,7 @@ title: 'Texas Ad Pitch Blueprint'
 [Other Notes:](#other-notes:)
 
 [In Case of Emergency:](#in-case-of-emergency:)
+{{</collapse>}}
 
 # Competition Overview: {#competition-overview:}
 
