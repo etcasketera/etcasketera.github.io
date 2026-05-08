@@ -9,12 +9,12 @@ params:
     Content: "I hope you learn something new"
   
   socialIcons:
-    - name: "<github>"
+    - name: github
       url: "https://github.com/etcasketera"
-    - name: "<linkedin>"
+    - name: linkedin
       url: "https://linkedin.com/in/etashc"
   
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
