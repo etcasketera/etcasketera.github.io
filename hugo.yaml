@@ -9,10 +9,10 @@ params:
     Content: "I hope you learn something new"
   
   socialIcons:
-    - name: github
-      url: 'https://github.com/etcasketera'
-    - name: linkedin
-      url: 'https://linkedin.com/in/etashc'
+    - name: "<github>"
+      url: "https://github.com/etcasketera"
+    - name: "<linkedin>"
+      url: "https://linkedin.com/in/etashc"
   
   ShowBreadCrumbs: true
   ShowReadingTime: true
@@ -21,12 +21,12 @@ params:
 
 menu:
   main:
-    - indentifier: archive
+    - indentifier: archives
       name: "Archive"
-      url: '/archive/'
+      url: '/archives/'
       weight: 10
-    - indentifier: articles
-      name: "Articles"
+    - indentifier: dailytexan
+      name: "Daily Texan"
       url: '/dailytexan/'
       weight: 9
 

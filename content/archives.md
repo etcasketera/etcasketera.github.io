@@ -1,6 +1,6 @@
 ---
 title: "Archive"
 layout: "archives"
-url: "/archive/"
+url: "/archives/"
 summary: archives
 ---
