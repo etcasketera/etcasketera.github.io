@@ -10,14 +10,16 @@ params:
   #   ["posts"]
 
   homeInfoParams:
-    Title: "Hello"
-    Content: "I hope you learn something new"
+    Title: "Welcome"
+    Content: "A library of learnings"
   
   socialIcons:
     - name: github
       url: "https://github.com/etcasketera"
     - name: linkedin
       url: "https://linkedin.com/in/etashc"
+    - name: email
+      url: "mailto:etashchandran@gmail.com"
   
   ShowBreadCrumbs: false
   ShowReadingTime: true
