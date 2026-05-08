@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Etash Chandran</title>
-    <link>http://localhost:1313/EtashSite/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Etash Chandran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2026 14:56:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/EtashSite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why ENGIE</title>
-      <link>http://localhost:1313/EtashSite/posts/reflections/whyengie/</link>
+      <link>http://localhost:1313/posts/reflections/whyengie/</link>
       <pubDate>Fri, 08 May 2026 14:56:28 -0500</pubDate>
-      <guid>http://localhost:1313/EtashSite/posts/reflections/whyengie/</guid>
+      <guid>http://localhost:1313/posts/reflections/whyengie/</guid>
       <description>&lt;p&gt;It is amazing how quickly someone can go from thirsty to drowning. On April 30, I was interning at FFF Enterprises with an essentially gauranteed return offer. I was content that I would work my way up in the company by dint of competence, gaining exceptional transferable skills and experiences.&lt;/p&gt;
 &lt;p&gt;Then, I recieved two phone calls within an hour of one another. The first was from ENGIE, a natural gas &amp;amp; renewables utilities company. The next was from Argus Media, a commodities price reporting agency. The offers were strikly similar (except for compensation)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nuclear Insights</title>
-      <link>http://localhost:1313/EtashSite/researchwiki/sources/nuclearinsights/</link>
+      <link>http://localhost:1313/researchwiki/sources/nuclearinsights/</link>
       <pubDate>Fri, 08 May 2026 14:22:07 -0500</pubDate>
-      <guid>http://localhost:1313/EtashSite/researchwiki/sources/nuclearinsights/</guid>
+      <guid>http://localhost:1313/researchwiki/sources/nuclearinsights/</guid>
       <description>&lt;h1 id=&#34;the-evolution-and-future-prospects-of-nuclear-energy-addressing-challenges-for-global-deployment&#34;&gt;The Evolution and Future Prospects of Nuclear Energy: Addressing Challenges for Global Deployment&lt;/h1&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Global sentiment toward nuclear energy has shifted positively, leading many nations to commit to tripling worldwide nuclear capacity by 2050 to meet climate and energy security goals. However, realizing this potential faces significant hurdles spanning economics, supply chains, waste management, and regulatory frameworks. The industry is navigating a mix of deployment strategies—extending existing large reactors (LTO), building new large reactors (LRs), and deploying Small Modular Reactors (SMRs)—requiring careful technological and policy consideration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Texas Ad Pitch Blueprint</title>
-      <link>http://localhost:1313/EtashSite/research/texas-ad-pitch-blueprint/</link>
+      <link>http://localhost:1313/research/texas-ad-pitch-blueprint/</link>
       <pubDate>Fri, 24 Apr 2026 13:59:50 -0500</pubDate>
-      <guid>http://localhost:1313/EtashSite/research/texas-ad-pitch-blueprint/</guid>
+      <guid>http://localhost:1313/research/texas-ad-pitch-blueprint/</guid>
       <description>&lt;h2 id=&#34;a-texas-student-advertising-competition&#34;&gt;A Texas Student Advertising Competition&lt;/h2&gt;
 
 
@@ -64,9 +64,9 @@
     </item>
     <item>
       <title>What is college for?</title>
-      <link>http://localhost:1313/EtashSite/posts/whatiscollege/</link>
+      <link>http://localhost:1313/posts/whatiscollege/</link>
       <pubDate>Wed, 24 Apr 2024 13:59:50 -0500</pubDate>
-      <guid>http://localhost:1313/EtashSite/posts/whatiscollege/</guid>
+      <guid>http://localhost:1313/posts/whatiscollege/</guid>
       <description>&lt;p&gt;Most students I’ve met at UT see their time here as a step on the path toward their future career. I see this development as part of the trend of schools becoming places where you learn how to work rather than how to live. Students should take advantage of the freedom of college to explore themselves and the world, instead of going to classes for the sake of an overpriced credential.&lt;/p&gt;</description>
     </item>
   </channel>

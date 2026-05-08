@@ -2,53 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/EtashSite/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-05-08T14:56:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/categories/decisions/</loc>
+    <loc>http://localhost:1313/categories/decisions/</loc>
     <lastmod>2026-05-08T14:56:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/tags/energy/</loc>
+    <loc>http://localhost:1313/tags/energy/</loc>
     <lastmod>2026-05-08T14:56:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-05-08T14:56:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/tags/job/</loc>
+    <loc>http://localhost:1313/tags/job/</loc>
     <lastmod>2026-05-08T14:56:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-05-08T14:56:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-05-08T14:56:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/posts/reflections/whyengie/</loc>
+    <loc>http://localhost:1313/posts/reflections/whyengie/</loc>
     <lastmod>2026-05-08T14:56:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/researchwiki/sources/nuclearinsights/</loc>
+    <loc>http://localhost:1313/researchwiki/sources/nuclearinsights/</loc>
     <lastmod>2026-05-08T14:22:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/posts/reflections/first/</loc>
+    <loc>http://localhost:1313/researchwiki/</loc>
     <lastmod>2026-05-08T14:22:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/categories/reflections/</loc>
-    <lastmod>2026-05-08T14:22:07-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/EtashSite/researchwiki/</loc>
-    <lastmod>2026-05-08T14:22:07-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/EtashSite/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2026-04-24T13:59:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/research/texas-ad-pitch-blueprint/</loc>
+    <loc>http://localhost:1313/research/texas-ad-pitch-blueprint/</loc>
     <lastmod>2026-04-24T13:59:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/posts/whatiscollege/</loc>
+    <loc>http://localhost:1313/posts/whatiscollege/</loc>
     <lastmod>2024-04-24T13:59:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/EtashSite/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Researchwikis on Etash Chandran</title>
-    <link>http://localhost:1313/EtashSite/researchwiki/</link>
+    <link>http://localhost:1313/researchwiki/</link>
     <description>Recent content in Researchwikis on Etash Chandran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2026 14:22:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/EtashSite/researchwiki/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/researchwiki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nuclear Insights</title>
-      <link>http://localhost:1313/EtashSite/researchwiki/sources/nuclearinsights/</link>
+      <link>http://localhost:1313/researchwiki/sources/nuclearinsights/</link>
       <pubDate>Fri, 08 May 2026 14:22:07 -0500</pubDate>
-      <guid>http://localhost:1313/EtashSite/researchwiki/sources/nuclearinsights/</guid>
+      <guid>http://localhost:1313/researchwiki/sources/nuclearinsights/</guid>
       <description>&lt;h1 id=&#34;the-evolution-and-future-prospects-of-nuclear-energy-addressing-challenges-for-global-deployment&#34;&gt;The Evolution and Future Prospects of Nuclear Energy: Addressing Challenges for Global Deployment&lt;/h1&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Global sentiment toward nuclear energy has shifted positively, leading many nations to commit to tripling worldwide nuclear capacity by 2050 to meet climate and energy security goals. However, realizing this potential faces significant hurdles spanning economics, supply chains, waste management, and regulatory frameworks. The industry is navigating a mix of deployment strategies—extending existing large reactors (LTO), building new large reactors (LRs), and deploying Small Modular Reactors (SMRs)—requiring careful technological and policy consideration.&lt;/p&gt;</description>
