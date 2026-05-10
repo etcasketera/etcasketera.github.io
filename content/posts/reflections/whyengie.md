@@ -1,6 +1,6 @@
 ---
 date: '2026-05-08T14:56:28-05:00'
-draft: false
+draft: true
 title: 'Why ENGIE'
 categories: ["Decisions"]
 tags: ["Job", "Energy"]
@@ -12,7 +12,7 @@ Then, I recieved two phone calls within an hour of one another. The first was fr
 - Both companies work in the energy industry. 
 - Both companies were offering a two year rotational program that would see me pivoting around the major lines of business.
 
-Prior to recieving those calls, I had essentially given up on the idea that I would be able to get a job through the normal recruiting process. As a decently plugged-in person, I was aware of the stories surrounding college recruiting. I thought that I would become just another statistic after applying to well over 200 jobs. 
+Prior to recieving those calls, I had almost given up on the idea that I would be able to get a job through the normal recruiting process. As a decently plugged-in person, I was aware of the stories surrounding college recruiting. I thought that I would become just another statistic after applying to well over 200 jobs. 
 
 ## Weighing the possibilities
 
@@ -42,7 +42,7 @@ The areas where FFF beats ENGIE are company culture, industry stability, and fir
 
 I also do not intend to work at the same company my entire life, and working at ENGIE gives me the best mobility in terms of location, work experience, and industry crediblity. At FFF, my skills might be transferrable to a wide range of companies, but my opportunity to network would be severely limited.
 
-This choice was agonizing because of my connection with Alex, VP of Data Intelligence at FFF and a family friend. He generously made the Data Intelligence Intern for me, with the intention of it becoming a full-time role. However, the opportunity to work at ENGIE is just too important and aligned with my long-term goals. Moreover, I have met great people at FFF that have helped me learn about deploying software and working in an AGILE environment. 
+This choice was agonizing because of my connection with Alex, VP of Data Intelligence at FFF and a family friend. However, the opportunity to work at ENGIE is just too important and aligned with my long-term goals. Moreover, I have met great people at FFF that have helped me learn about deploying software and working in an AGILE environment. 
 
 This choice was also motivated by the precieved impact of AI. I believe that the role I would play at FFF is more impacted by AI than the role I would play at ENGIE, and working at ENGIE is a way to future proof my career. 
 
