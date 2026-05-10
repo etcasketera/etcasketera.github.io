@@ -6,8 +6,23 @@
     <description>Recent content on Etash Chandran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 14:22:07 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 15:43:09 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is college for?</title>
+      <link>http://localhost:1313/posts/whatiscollege/</link>
+      <pubDate>Wed, 24 Apr 2024 13:59:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/whatiscollege/</guid>
+      <description>&lt;p&gt;Most students I’ve met at UT see their time here as a step on the path toward their future career. I see this development as part of the trend of schools becoming places where you learn how to work rather than how to live. Students should take advantage of the freedom of college to explore themselves and the world, instead of going to classes for the sake of an overpriced credential.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Don&#39;t judge a talk by its title</title>
+      <link>http://localhost:1313/posts/dontjudgetalks/</link>
+      <pubDate>Sun, 10 May 2026 15:43:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/dontjudgetalks/</guid>
+      <description>&lt;p&gt;This semester, my friend convinced me to attend an event called “Creating Knowledge in a Fragmented World,” featuring Jonathan Haidt and Jonathan Rauch. While both speakers were unfamiliar to me, I’m glad I was able to hear their thoughts on the importance of unconventional viewpoints on campus.&lt;/p&gt;
+&lt;p&gt;Students should make an effort to start off the next academic year by attending on-campus events to expand their worldviews, take advantage of the University’s resources and engage with opposing viewpoints.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nuclear Insights</title>
       <link>http://localhost:1313/researchwiki/sources/nuclearinsights/</link>
@@ -16,6 +31,14 @@
       <description>&lt;h1 id=&#34;the-evolution-and-future-prospects-of-nuclear-energy-addressing-challenges-for-global-deployment&#34;&gt;The Evolution and Future Prospects of Nuclear Energy: Addressing Challenges for Global Deployment&lt;/h1&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Global sentiment toward nuclear energy has shifted positively, leading many nations to commit to tripling worldwide nuclear capacity by 2050 to meet climate and energy security goals. However, realizing this potential faces significant hurdles spanning economics, supply chains, waste management, and regulatory frameworks. The industry is navigating a mix of deployment strategies—extending existing large reactors (LTO), building new large reactors (LRs), and deploying Small Modular Reactors (SMRs)—requiring careful technological and policy consideration.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflection #1</title>
+      <link>http://localhost:1313/posts/reflections/first/</link>
+      <pubDate>Fri, 08 May 2026 14:22:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/reflections/first/</guid>
+      <description>&lt;p&gt;These reflections will be a series of thoughts, ideas, and learnings that I will come back to reflect on in a designated period of time in order to improve my ability to think and reason about the future.&lt;/p&gt;
+&lt;p&gt;My hope is that my recording my thoughts, feelings, and logic, I will be able to understand why I made the decisions I did with more clarity, and use that information to improve my thinking for the next time I face a similar choice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Texas Ad Pitch Blueprint</title>
@@ -53,13 +76,6 @@
 &lt;h1 id=&#34;competition-overview:&#34;&gt;Competition Overview:&lt;/h1&gt;
 &lt;p&gt;This document is meant to function as a guide for planning and hosting Texas Ad Pitch (TAP), a Texas Student Advertising Competition.&lt;/p&gt;
 &lt;p&gt;The goal of TAP is for students to build their portfolios, pitch to a real client, and employ their skills for a practical challenge, while meeting peers in their major and interests. For clients, TAP offers them fresh, new ideas for marketing their products/services, as well as direct access to young talent at UT Austin.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What is college for?</title>
-      <link>http://localhost:1313/posts/whatiscollege/</link>
-      <pubDate>Wed, 24 Apr 2024 13:59:50 -0500</pubDate>
-      <guid>http://localhost:1313/posts/whatiscollege/</guid>
-      <description>&lt;p&gt;Most students I’ve met at UT see their time here as a step on the path toward their future career. I see this development as part of the trend of schools becoming places where you learn how to work rather than how to live. Students should take advantage of the freedom of college to explore themselves and the world, instead of going to classes for the sake of an overpriced credential.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

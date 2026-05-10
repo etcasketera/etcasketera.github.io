@@ -2,6 +2,8 @@
 date: '2024-04-24T13:59:50-05:00'
 draft: false
 title: 'What is college for?'
+categories: ['Daily Texan']
+weight: 1
 ---
 Most students I’ve met at UT see their time here as a step on the path toward their future career. I see this development as part of the trend of schools becoming places where you learn how to work rather than how to live. Students should take advantage of the freedom of college to explore themselves and the world, instead of going to classes for the sake of an overpriced credential. 
 

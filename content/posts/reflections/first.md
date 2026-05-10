@@ -1,6 +1,6 @@
 ---
 date: '2026-05-08T14:22:07-05:00'
-draft: true
+draft: false
 title: 'Reflection #1'
 categories: ["Reflections"]
 tags: ["Energy"]

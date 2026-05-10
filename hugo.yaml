@@ -12,8 +12,8 @@ params:
       - permalink
       - summary
       - content
-  # mainSections:
-  #   ["posts"]
+  mainSections:
+    - reflections
 
   homeInfoParams:
     Title: "Welcome"
@@ -27,9 +27,9 @@ params:
     - name: email
       url: "mailto:etashchandran@gmail.com"
   
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: false
 
 menu:

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Etash Chandran</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Etash Chandran</description>
+    <title>Daily Texan on Etash Chandran</title>
+    <link>http://localhost:1313/categories/daily-texan/</link>
+    <description>Recent content in Daily Texan on Etash Chandran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2026 15:43:09 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/daily-texan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is college for?</title>
       <link>http://localhost:1313/posts/whatiscollege/</link>
@@ -22,14 +22,6 @@
       <guid>http://localhost:1313/posts/dontjudgetalks/</guid>
       <description>&lt;p&gt;This semester, my friend convinced me to attend an event called “Creating Knowledge in a Fragmented World,” featuring Jonathan Haidt and Jonathan Rauch. While both speakers were unfamiliar to me, I’m glad I was able to hear their thoughts on the importance of unconventional viewpoints on campus.&lt;/p&gt;
 &lt;p&gt;Students should make an effort to start off the next academic year by attending on-campus events to expand their worldviews, take advantage of the University’s resources and engage with opposing viewpoints.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reflection #1</title>
-      <link>http://localhost:1313/posts/reflections/first/</link>
-      <pubDate>Fri, 08 May 2026 14:22:07 -0500</pubDate>
-      <guid>http://localhost:1313/posts/reflections/first/</guid>
-      <description>&lt;p&gt;These reflections will be a series of thoughts, ideas, and learnings that I will come back to reflect on in a designated period of time in order to improve my ability to think and reason about the future.&lt;/p&gt;
-&lt;p&gt;My hope is that my recording my thoughts, feelings, and logic, I will be able to understand why I made the decisions I did with more clarity, and use that information to improve my thinking for the next time I face a similar choice.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
