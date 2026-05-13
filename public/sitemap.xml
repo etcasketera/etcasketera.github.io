@@ -6,15 +6,36 @@
     <lastmod>2024-04-24T13:59:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-05-10T15:43:09-05:00</lastmod>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/decisions/</loc>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/education/</loc>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/featured/</loc>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/job/</loc>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/learning/</loc>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/featured/mainpost/</loc>
+    <lastmod>2026-05-10T15:52:37-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/daily-texan/</loc>
     <lastmod>2026-05-10T15:43:09-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/dontjudgetalks/</loc>
-    <lastmod>2026-05-10T15:43:09-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-05-10T15:43:09-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -35,9 +56,6 @@
     <loc>http://localhost:1313/researchwiki/</loc>
     <lastmod>2026-05-08T14:22:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-05-08T14:22:07-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/research/</loc>
     <lastmod>2026-04-24T13:59:50-05:00</lastmod>
   </url><url>
@@ -46,6 +64,10 @@
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
+    <loc>http://localhost:1313/people/</loc>
+  </url><url>
     <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/status/</loc>
   </url>
 </urlset>

@@ -13,7 +13,7 @@ params:
       - summary
       - content
   mainSections:
-    - reflections
+    - featured
 
   homeInfoParams:
     Title: "Welcome"
@@ -42,16 +42,16 @@ menu:
       name: "Posts"
       url: '/posts/'
       weight: 9
-    - identifier: search
-      name: "Search"
-      url: 'search'
-      weight: 1
-    - name: "Categories"
-      url: "/categories/"
-      weight: 30
-    - name: "Tags"
-      url: "/tags/"
-      weight: 40
+    # - identifier: search
+    #   name: "Search"
+    #   url: 'search'
+    #   weight: 1
+    # - name: "Categories"
+    #   url: "/categories/"
+    #   weight: 30
+    # - name: "Tags"
+    #   url: "/tags/"
+    #   weight: 40
     # - indentifier: researchwiki
     #   name: "Wiki"
     #   url: '/researchwiki'
@@ -62,3 +62,9 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+taxonomies:
+  tag: tags
+  category: categories
+  person: people
+  status: status
